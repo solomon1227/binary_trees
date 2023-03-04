@@ -37,4 +37,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Autors
 - **Solomon Ferede** - solomonf1227@gmail.com
-- **Mesfin Fikrea** - 
+- **Mesfin Fikrea** -  fikreamesfin@gmail.com 
